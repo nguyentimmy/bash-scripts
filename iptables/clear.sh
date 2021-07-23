@@ -20,4 +20,4 @@ iptables -P OUTPUT ACCEPT
 sleep 1
 
 echo -e "\n[+] Iptables cleared:\n"
-iptables -L -nv --line-numbers)
+iptables -L -nv --line-numbers
